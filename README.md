@@ -34,7 +34,9 @@ I have worked in an Agile-Scrum environment, so I am confident in all Scrum meet
 I work well in teams because I am social and friendly. I have good communication skills and  I can quickly adapt to my environment. I believe that collaboration, coordination and being helpful are important elements in a team. Which fits with my patient and helpful personality. Last but not least I love learning, I am open to learn new things.
 
 
-That is pretty much about me. Thank you.
+That is pretty much about me. 
+
+
 
 
 
