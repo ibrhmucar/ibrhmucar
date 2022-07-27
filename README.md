@@ -54,6 +54,7 @@ That is pretty much about me.
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ibrhmucar&show_icons=true&theme=radical)
+![ibrahim's Github stats 1](https://github-readme-stats.vercel.app/api?username=ibrhmucar&show_icons=true&theme=radical)
+
 
 
