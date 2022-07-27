@@ -7,7 +7,7 @@ I have been in the IT industry more than 2 years as a SDET  / Automation Enginee
 
 I graduated in industrial engineering.
 
-My current company is called Hypnotes, I am working on a web-based application.
+My current company is called *Hypnotes*, I am working on a web-based application.
 
 I have successfully tested web-based applications both manually and automatically.
 
