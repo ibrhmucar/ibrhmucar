@@ -15,13 +15,13 @@ I can create the automation framework from scratch.
 
 My framework is Page Object Model Cucumber Framework.
 
-Project management tool or bug tracking tool is Jira
+Project management tool or bug tracking tool is Jira.
 
 My main programming language is Java. I have automated frontend with Selenium, Cucumber, JUnit and TestNG tools.
 
 I am using Maven as build management tool to control and manage my dependencies. And I use SQL (Structured Query Language) for manual Database testing. I have used JDBC (Java Database Connectivity) tool for automating the Database testing.
 
-And I use Postman application for manual API (Application Programming Interface) testing.  I use Rest Assured library for automating the API (Application Programming Interface)
+And I use Postman application for manual API (Application Programming Interface) testing.  I use Rest Assured library for automating the API (Application Programming Interface).
 
 I have also performed functional, Smoke and regression testing. 
 
