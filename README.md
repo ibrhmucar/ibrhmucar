@@ -23,7 +23,7 @@ I am using Maven as build management tool to control and manage my dependencies.
 
 And I use Postman application for manual API (Application Programming Interface) testing.  I use Rest Assured library for automating the API (Application Programming Interface).
 
-I have also performed functional, Smoke and regression testing. 
+I have also performed functional, smoke and regression testing. 
 
 I have used Jenkins for CI/CD (continuous integration) tool.
 
