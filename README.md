@@ -1,7 +1,8 @@
 <img src="uchar.jpeg" width="auto"> 
 
+# <h1 align="center">  Welcome  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<h1 align="center">Hi 👋, I'm Ibrahim</h1>
+<h1 align="center"> I'm Ibrahim</h1>
 
 I have been in the IT industry more than 2 years as a SDET  / Automation Engineer.
 
@@ -47,10 +48,13 @@ That is pretty much about me.
 
 ## 🔗 Let's Connect!
 
-<a href="https://www.linkedin.com/in/ibrhmucar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
+ [![Twitter Badge](https://img.shields.io/badge/-@ibrahim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdet_ibrhm_ucar)](https://twitter.com/sdet_ibrhm_ucar) [![Linkedin Badge](https://img.shields.io/badge/-ibrahimucar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrhmucar/)](https://www.linkedin.com/in/ibrhmucar/) [![Gmail Badge](https://img.shields.io/badge/-ibrhmucar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrhmucar@gmail.com)](mailto:ibrhmucar@gmail.com)
+ 
+ 
 ---
+ 
 
 
 
