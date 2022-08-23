@@ -16,7 +16,7 @@ I have been in the IT industry more than 2 years as a SDET. I am a detail-orient
 
 
 
-![ibrahim's Github stats 1](https://github-readme-stats.vercel.app/api?username=ibrhmucar&show_icons=true&theme=radical)
+
 
 
 
