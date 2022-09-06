@@ -1,10 +1,13 @@
+
 <img src="uchar.jpeg" width="auto"> 
 
 ---
 
 
 
-# <h1 align="center">  Welcome  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+# <h1 align="center">  Welcome 
+
+
 
 I'm Ibrahim
 
@@ -20,7 +23,7 @@ I have been in the IT industry more than 2 years as a SDET. I am a detail-orient
  
 [![Twitter Badge](https://img.shields.io/badge/-@ibrahim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdet_ibrhm_ucar)](https://twitter.com/sdet_ibrhm_ucar) [![Linkedin Badge](https://img.shields.io/badge/-ibrahimucar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrhmucar/)](https://www.linkedin.com/in/ibrhmucar/) [![Gmail Badge](https://img.shields.io/badge/-ibrhmucar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrhmucar@gmail.com)](mailto:ibrhmucar@gmail.com)
 
-
+---
 
 
 
