@@ -12,9 +12,14 @@
 </p>
 
 
-I'm Ibrahim
+I'm Ibrahim :smile:
 
-I have been in the IT industry more than 2 years as a SDET. I am a detail-oriented and performance-oriented Software Automation Test Engineer with a proven track record of completing all tasks with full dedication. I also work well in a close team while being resourceful, self-motivated, and best results-oriented, taking the initiative to solve problems and ensuring that mistakes are corrected. I push myself to the limits to have exemplary planning skills with valuable transferable skills such as analyzing, paying attention to details, working towards goals, and achieving the best possible results. I am interested in using and learning new technologies and tools. In addition to these, the use of Selenium WebDriver, Jmeter, and Postman. I use Jira and Trello from project tracking programs. I am working on Java as a programming language. My learning continues.
+* I have been in the IT industry more than 2 years as a SDET. 
+* I am a detail-oriented and performance-oriented Software Automation Test Engineer with a proven track record of completing all tasks with full dedication. 
+* I also work well in a close team while being resourceful, self-motivated, and best results-oriented, taking the initiative to solve problems and ensuring that mistakes are corrected. 
+* I push myself to the limits to have exemplary planning skills with valuable transferable skills such as analyzing, paying attention to details, working towards goals, and achieving the best possible results. 
+* I am interested in using and learning new technologies and tools. In addition to these, the use of Selenium WebDriver, Jmeter, and Postman. I use Jira and Trello from project tracking programs. 
+* I am working on Java as a programming language. My learning continues.
  
  
  
