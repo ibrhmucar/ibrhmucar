@@ -44,6 +44,14 @@ I'm Ibrahim :smile:
 <code><a target="_blank"><img src=https://www.fujitsu.com/fts/Images/Oracle%20logo%20250x53_tcm21-29612.jpg alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://www.yazilimevi.com/images/virtuemart/product/JetBrains-IntelliJ-IDEA-Ultimate-2018-indir.png alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw=w240-h480 alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://avatars.githubusercontent.com/u/874086?s=200&v=4 alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://www.skillrary.com/uploads/course/1232_medium.png alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://theqaconnection.files.wordpress.com/2020/12/untitled-design-23.png?w=840 alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src= https://www.gokhancanpolat.com/sites/default/files/pictures/Agile.png alt="java" width="40" height="40"/></a></code>
+ 
 
 ---
 
