@@ -41,7 +41,9 @@ I'm Ibrahim :smile:
 <code><a href="https://www.postman.com/" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="css3" width="40" height="40"/></a></code>
 &nbsp;<code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://cdn2.limonhost.net/wp-content/uploads/2021/07/Sql_data_base_with_logo.png alt="java" width="40" height="40"/></a></code>
-
+<code><a target="_blank"><img src=https://www.fujitsu.com/fts/Images/Oracle%20logo%20250x53_tcm21-29612.jpg alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://www.yazilimevi.com/images/virtuemart/product/JetBrains-IntelliJ-IDEA-Ultimate-2018-indir.png alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src=https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw=w240-h480 alt="java" width="40" height="40"/></a></code>
 
 ---
 
