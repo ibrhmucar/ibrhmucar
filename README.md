@@ -2,16 +2,13 @@
 <img src="uchar.jpeg" width="auto"> 
 
 ---
-
-
-
 # <h1 align="center">  Welcome 
 
-<p align="center">
+ <h2 align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Test+Automation+Engineer;%20%20Java%20|%20OOP%20|%20Automation%20;Always%20learning%20new%20things...&center=true&width=500&height=50"></a>
-</p>
-
-
+  
+---
+  
 # <h3 align="left"> 👨‍💼 I'm Ibrahim 💻 ☕
  
 ➡️ I have been in the IT industry more than 2 years as a SDET.</p>
