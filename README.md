@@ -23,15 +23,17 @@
  
 ---
 
-# <h2 align="center"> :pen: Contact With Me 
-
+<h2 align="center"> :pen: Contact With Me 
+ 
+</p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@ibrahim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdet_ibrhm_ucar)](https://twitter.com/sdet_ibrhm_ucar) [![Linkedin Badge](https://img.shields.io/badge/-ibrahimucar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrhmucar/)](https://www.linkedin.com/in/ibrhmucar/) [![Gmail Badge](https://img.shields.io/badge/-ibrhmucar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrhmucar@gmail.com)](mailto:ibrhmucar@gmail.com)</p>
 
+
 ---
 
- <h2 align="center"> Languages and Tools  </h2> 
-
+<h2 align="center"> 🧰  Languages and Tools </p>
+ 
 <p align="center"> 
 <code><a target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/></a></code>
 <code><a href="https://www.selenium.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="css3" width="40" height="40"/></a></code>
