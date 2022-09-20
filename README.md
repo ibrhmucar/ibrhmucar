@@ -5,11 +5,11 @@
 # <h1 align="center">  Welcome 
 
  <h2 align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Test+Automation+Engineer;%20%20Java%20|%20OOP%20|%20Automation%20;Always%20learning%20new%20things...&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Engineer+in+Test;%20%20Java%20|%20OOP%20|%20Selenium%20|%20SQL%20|%20API%20;Always%20Learning%20New%20Things...&center=true&width=500&height=50"></a>
   
 ---
   
-# <h3 align="left"> 👨‍💼 I'm Ibrahim 💻 ☕
+# <h3 align="left"> 👨‍💼 I'm Ibrahim 💻 ☕ 
  
 ➡️ I have been in the IT industry more than 2 years as a SDET.</p>
 ➡️ I am a detail-oriented and performance-oriented Software Automation Test Engineer with a proven track record of completing all tasks with full dedication.</p>
@@ -22,6 +22,8 @@
  
  
 ---
+
+# <h2> :pen: Contact With Me 
 
 
 
